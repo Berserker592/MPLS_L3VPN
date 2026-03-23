@@ -35,6 +35,7 @@ En MPLS L3VPN no basta con hacer ping — se tiene que validar 3 planos:
 La comprobación de la vecindad con los diferentes PE se realiza en el PE_CISCO6 debido a que el forma parte del cliente A y B a la vez por lo cual debería mostrar que se encuentra establecida las sesiones con las diferentes loopbacks de los otros PEs.
 
 ✔ Vecindad entre PEs en estado Establecido
+
 ![MPBGP](MPLS_L3VPN/img_26.png)
 
 ## Visualización de las Rutas
